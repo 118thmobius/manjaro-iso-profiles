@@ -29,7 +29,7 @@ flex
 >extra >multilib gcc-multilib
 >extra gcolor2
 >extra gimp
->extra git
+git
 >extra gnome-disk-utility
 gnome-keyring
 >extra gnome-online-accounts
@@ -54,7 +54,7 @@ gvfs-afc
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
-htop
+# htop
 >extra hexchat
 icon-naming-utils
 inxi
@@ -80,7 +80,7 @@ manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
 >extra mesa-demos
->basic midori
+# >basic midori
 >extra mobile-broadband-provider-info
 >extra modemmanager
 >extra mousetweaks
