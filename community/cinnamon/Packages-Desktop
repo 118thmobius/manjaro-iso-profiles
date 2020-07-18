@@ -71,6 +71,7 @@ m4
 make
 manjaro-alsa
 manjaro-application-utility
+manjaro-asian-input-support-fcitx
 manjaro-browser-settings
 manjaro-cinnamon-settings
 >extra manjaro-documentation-en
